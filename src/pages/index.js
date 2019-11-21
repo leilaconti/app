@@ -16,6 +16,7 @@ class RootIndex extends React.Component {
           <h2>{profileHeader.leilaConti}</h2>
           <h4>{profileHeader.developer}</h4>
           <h4>{profileHeader.location}</h4>
+          <h4>hi</h4>
         </div>
       </Layout>
     )
